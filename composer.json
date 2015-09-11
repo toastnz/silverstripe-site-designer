@@ -20,7 +20,7 @@
     "toastnz/silverstripe-color-field": "~0.1"
   },
   "support": {
-    "issues": "https://github.com/Rhym/silverstripe-site-designer/issues"
+    "issues": "https://github.com/toastnz/silverstripe-site-designer/issues"
   },
   "extra": {
     "installer-name": "silverstripe-site-designer"
